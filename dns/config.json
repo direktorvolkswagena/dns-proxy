@@ -1,7 +1,0 @@
-{
-    "listen": "0.0.0.0:1053",
-    "upstream": "8.8.8.8:53",
-    "blacklist": ["youtube.com", "google.com", "spotify.com"],
-    "mode": "redirect",
-    "redirect_ip": "127.0.0.1"
-} 
