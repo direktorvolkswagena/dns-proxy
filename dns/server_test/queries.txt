@@ -1,0 +1,5 @@
+youtube.com A IN
+google.com A IN
+spotify.com A IN
+instagram.com A IN
+facebook.com A IN
